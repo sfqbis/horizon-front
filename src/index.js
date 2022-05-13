@@ -1,15 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
-import Horizon from './Horizon';
+import Title from './Title';
+import Hypercube from './Hypercube';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Horizon />
-    <App />
+    <Title />
+    <Hypercube />
   </React.StrictMode>
 );
 
