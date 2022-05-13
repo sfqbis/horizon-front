@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/horizon-front/static/css/main.073c9b0a.css",
-    "main.js": "/horizon-front/static/js/main.a56b5de8.js",
+    "main.js": "/horizon-front/static/js/main.08d5f37e.js",
     "static/js/787.c32649f6.chunk.js": "/horizon-front/static/js/787.c32649f6.chunk.js",
-    "static/media/logo.svg": "/horizon-front/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/horizon-front/index.html",
     "main.073c9b0a.css.map": "/horizon-front/static/css/main.073c9b0a.css.map",
-    "main.a56b5de8.js.map": "/horizon-front/static/js/main.a56b5de8.js.map",
+    "main.08d5f37e.js.map": "/horizon-front/static/js/main.08d5f37e.js.map",
     "787.c32649f6.chunk.js.map": "/horizon-front/static/js/787.c32649f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a56b5de8.js"
+    "static/js/main.08d5f37e.js"
   ]
 }
